@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithlin724" alt="keithlin724" /></a> </p>
 
 - 🌱 I’m currently learning **Java GUI**
-
+- I like use Python to solve the Problem
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
