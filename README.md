@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KYLiN</h1>
-<h3 align="center">A passionate frontend developer from Hong Kong</h3>
+<h3 align="center">A passionate code artist from Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithlin724&label=Profile%20views&color=0e75b6&style=flat" alt="keithlin724" /> </p>
 
