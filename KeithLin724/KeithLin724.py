@@ -1,16 +1,12 @@
-"""Welcome to Reflex! This file outlines the steps to create a basic app."""
-from rxconfig import config
+"""Welcome to Reflex!."""
 
-import reflex as rx
+from KeithLin724 import styles
+
+# Import all the pages.
 from KeithLin724.pages import *
 
+import reflex as rx
 
-class State(rx.State):
-    """The app state."""
-
-    pass
-
-
-# Add state and page to the app.
-app = rx.App()
+# Create the app and compile it.
+app = rx.App(style=styles.base_style)
 app.compile()
