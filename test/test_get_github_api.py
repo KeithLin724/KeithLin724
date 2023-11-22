@@ -42,7 +42,7 @@ async def main():
     user_name = "KeithLin724"
     result_json = await get_github(user_name=user_name)
     res = json.dumps(result_json)
-
+    print(result_json)
     with open("test.json", mode="w") as f:
         f.write(res)
 
