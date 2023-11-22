@@ -2,6 +2,7 @@
 from rxconfig import config
 
 import reflex as rx
+from KeithLin724.pages import *
 
 
 class State(rx.State):
@@ -12,5 +13,4 @@ class State(rx.State):
 
 # Add state and page to the app.
 app = rx.App()
-# app.add_page(index)
 app.compile()
