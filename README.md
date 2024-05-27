@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Keith%20Lin&descSize=15&textBg=false&desc=A%20passionate%20data%20science%20and%20artificial%20intelligence%20engineer%20from%20Hong%20Kong&section=header&descAlignY=65&descAlign=64&fontAlign=50&fontAlignY=43" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keithlin724&label=Profile%20views&color=0e75b6&style=flat" alt="keithlin724" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KeithLin724&style=for-the-badge" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
