@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KeithLin724&no-bg=true&no-frame=true&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KeithLin724&no-bg=true&no-frame=true&column=6&rank=SSS,S,S,SECRET,AAA,AA,A" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](<https://fb.com/keith lin （kylin）>) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lin.keith.24) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/naJb9yVH) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwan-yeung-lin-23a423293/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kylin) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kwanyeung) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/keithlin724/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/keithlin724)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=keithlin724&rank_icon=github&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keithlin724&layout=compact&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=Tex,assembly,html)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=keithlin724&rank_icon=github&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keithlin724&layout=donut&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=Tex,assembly,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
